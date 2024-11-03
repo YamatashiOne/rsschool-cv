@@ -9,4 +9,4 @@ A tech-savvy and communicative professional with strong interpersonal skills. Pa
 #### Skills
 - HTML
 - CSS/SASS
-- Git
+- Gi
